@@ -1,39 +1,64 @@
-# Contributor Covenant Code of Conduct
+# 📜 Code of Conduct
 
 ## Our Pledge
 
-In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to make participation in this project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
+We, as members, contributors, and maintainers of this community, pledge to make participation in **Quality Over Commits** a welcoming and respectful experience for everyone.
+
+We are committed to growing a space focused on thoughtful contributions, learning, and support — regardless of experience level, background, or identity.
+
+---
 
 ## Our Standards
 
-Examples of behavior that contributes to creating a positive environment include:
+Examples of behavior that helps create a positive environment:
 
-- Using welcoming and inclusive language
-- Being respectful of differing viewpoints and experiences
-- Gracefully accepting constructive criticism
-- Focusing on what is best for the community
-- Showing empathy towards other community members
+- 💬 Engaging respectfully in discussions
+- 🙌 Offering constructive feedback
+- 🧠 Sharing ideas and experiences openly
+- 🤝 Welcoming newcomers with patience
 
-Examples of unacceptable behavior include:
+Unacceptable behaviors include:
 
-- Harassment, intimidation, or discrimination in any form
-- Trolling or insulting/derogatory comments
-- Public or private harassment
-- Publishing others’ private information, such as physical or electronic addresses, without explicit permission
-- Other conduct which could reasonably be considered inappropriate in a professional setting
+- 🚫 Harassment or discrimination
+- 🚫 Trolling, flame wars, or personal attacks
+- 🚫 Self-promotion spam or irrelevant links
+- 🚫 Dismissing someone’s experience or perspective
 
-## Enforcement Responsibilities
+---
 
-Project maintainers are responsible for clarifying standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.
+## Our Responsibilities
 
-## Reporting
+Project maintainers are responsible for:
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at [security@thesolutiondesk.ca]. All complaints will be reviewed and investigated promptly and fairly.
+- Upholding this Code of Conduct
+- Taking appropriate, fair action in response to reports
+- Creating a safe and respectful space for all
+
+---
+
+## Scope
+
+This Code applies to all spaces in this project:  
+GitHub Discussions, Issues, Pull Requests, and any other form of community interaction.
+
+---
 
 ## Enforcement
 
-Anyone asked to stop unacceptable behavior is expected to comply immediately.
+Violations may result in removal of content, temporary bans, or being blocked from participation — at the discretion of the maintainers.
 
-## Attribution
+---
 
-This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 2.1, available at https://www.contributor-covenant.org/version/2/1/code_of_conduct.html
+## Reporting
+
+If you experience or witness behavior that violates this Code of Conduct, please report it via email:
+
+📬 [contact@thesolutiondesk.ca](mailto:contact@thesolutiondesk.ca)
+
+All reports will be reviewed and handled confidentially.
+
+---
+
+**Thanks for helping us keep this community positive and growth-focused.**
+
+— The Solution Desk Team
