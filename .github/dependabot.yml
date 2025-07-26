@@ -1,0 +1,10 @@
+version: 2
+updates:
+  - package-ecosystem: "npm"       # Replace with your package manager if different
+    directory: "/"                 # Location of package manifest files
+    schedule:
+      interval: "weekly"           # Check for updates weekly
+    open-pull-requests-limit: 5   # Optional: limits number of open PRs to avoid noise
+    allow:
+      - dependency-type: "all"    # You can specify 'direct', 'indirect', or 'all'
+    # Optionally you can add other customization like 'ignore' or 'versioning-strategy' if desired
