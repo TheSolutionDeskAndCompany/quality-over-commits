@@ -28,7 +28,7 @@ Project maintainers are responsible for clarifying standards of acceptable behav
 
 ## Reporting
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at [your-email@example.com]. All complaints will be reviewed and investigated promptly and fairly.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at [security@thesolutiondesk.ca]. All complaints will be reviewed and investigated promptly and fairly.
 
 ## Enforcement
 
