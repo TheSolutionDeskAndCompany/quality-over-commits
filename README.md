@@ -1,3 +1,6 @@
+> 🗣️ **Join the conversation!**  
+> [Visit the Discussions Page →](https://github.com/TheSolutionDeskAndCompany/quality-over-commits/discussions)
+
 # 🟢 Quality Over Commits
 
 Curious what truly makes a GitHub profile stand out?  
