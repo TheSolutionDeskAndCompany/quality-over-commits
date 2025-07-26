@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 # Welcome to Quality Over Commits
 
 Join a community focused on meaningful GitHub commits and quality profiles!
