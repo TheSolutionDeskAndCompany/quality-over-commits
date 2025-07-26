@@ -1,0 +1,10 @@
+theme: cayman
+title: Quality Over Commits
+description: A community for meaningful GitHub commits and quality profiles.
+
+# To load your custom CSS
+plugins:
+  - jekyll-theme-cayman
+
+sass:
+  style: compressed
