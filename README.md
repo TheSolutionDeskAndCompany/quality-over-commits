@@ -1,3 +1,5 @@
+![Quality Over Commits Logo](docs/assets/quality_over_commits_logo.jpg)
+
 # 🟢 Quality Over Commits
 
 Curious what truly makes a GitHub profile stand out?  
@@ -90,4 +92,3 @@ Quality over quantity isn’t just a slogan—it’s about *meaningful presence*
 
 Thanks for stopping by. Looking forward to learning with you!  
 🚀
-
