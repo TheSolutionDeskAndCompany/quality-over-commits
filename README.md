@@ -1,12 +1,20 @@
-> 🗣️ **Join the conversation!**  
-> [Visit the Discussions Page →](https://github.com/TheSolutionDeskAndCompany/quality-over-commits/discussions)
-
 # 🟢 Quality Over Commits
 
 Curious what truly makes a GitHub profile stand out?  
 Me too. That’s why I started this project—to explore why **quality contributions and thoughtful work** matter far more than just racking up commits or green squares.
 
 > I’m learning as I go, making mistakes, asking questions, and sharing what I find out. If you’re figuring this out too—or you’ve been there before—you’re welcome here.
+
+---
+
+🌟🌟🌟  
+# 🗣️ Join the Conversation on GitHub Discussions!  
+Want feedback on your GitHub profile? Have tips to share about meaningful commits?
+
+👉 [**Visit the Discussions Hub →**](https://github.com/TheSolutionDeskAndCompany/quality-over-commits/discussions)  
+📬 Connect with like-minded developers and grow your portfolio — one quality commit at a time!
+
+🌟🌟🌟  
 
 ---
 
