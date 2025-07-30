@@ -1,95 +1,62 @@
+![Quality Over Commits Banner](./docs/assets/banner.png)
+
+<p align="center">
+  <a href="https://github.com/TheSolutionDeskAndCompany/quality-over-commits/discussions">
+    <img alt="Discussions" src="https://img.shields.io/github/discussions/TheSolutionDeskAndCompany/quality-over-commits?color=4ade80&label=Discussions&logo=github">
+  </a>
+  <a href="https://github.com/TheSolutionDeskAndCompany/quality-over-commits/graphs/contributors">
+    <img alt="Contributors" src="https://img.shields.io/github/contributors/TheSolutionDeskAndCompany/quality-over-commits?color=8b5cf6&label=Contributors">
+  </a>
+  <a href="https://github.com/TheSolutionDeskAndCompany/quality-over-commits/commits/main">
+    <img alt="Last Commit" src="https://img.shields.io/github/last-commit/TheSolutionDeskAndCompany/quality-over-commits?color=22d3ee">
+  </a>
+  <a href="https://github.com/TheSolutionDeskAndCompany/quality-over-commits/blob/main/LICENSE">
+    <img alt="License" src="https://img.shields.io/github/license/TheSolutionDeskAndCompany/quality-over-commits?color=84cc16">
+  </a>
+</p>
+
+> Helping devs stand out on GitHub—where quality work beats commit counts.
+
 # Quality Over Commits
 
-![Discussions Enabled](https://img.shields.io/badge/discussions-enabled-brightgreen)
-![Open Community](https://img.shields.io/badge/community-open-blue)
+---
 
-## What is This?
+## 🚀 **Jump Right In**
 
-**Quality Over Commits** is a GitHub community board dedicated to helping developers highlight meaningful contributions, improve their portfolios, and understand what truly impresses recruiters and collaborators.  
-We believe quality work, thoughtful commit history, and impactful collaboration matter far more than sheer volume.  
-Here, you'll find real stories, practical advice, and a space to discuss the signals that make developers stand out.
+**👋 Welcome!**  
+This project is all about *quality, not quantity*—sharing, learning, and improving together.
+
+👉 **[Go straight to the Discussions Board](https://github.com/TheSolutionDeskAndCompany/quality-over-commits/discussions)**
+
+or
+
+👉 **[Introduce Yourself!](https://github.com/TheSolutionDeskAndCompany/quality-over-commits/discussions/13)**
 
 ---
 
-## 🚀 Getting Started
+### About
 
-- **Join the [Discussions Hub](https://github.com/TheSolutionDeskAndCompany/quality-over-commits/discussions) to start a conversation!**
-- Please review our [Code of Conduct](CODE_OF_CONDUCT.md) and [Contributing Guide](CONTRIBUTING.md) before posting.
-- New? Introduce yourself and see our [Welcome & Rules](https://github.com/TheSolutionDeskAndCompany/quality-over-commits/discussions/1) thread.
-
----
-
-## 🗂️ Table of Contents
-
-- [Discussion Categories](#️-discussion-categories)
-- [Featured Threads](#-featured-threads)
-- [How to Participate](#-how-to-participate)
-- [Community Guidelines](#-community-guidelines)
-- [Success Stories](#-success-stories)
-- [Suggestions & Improvement](#-suggestions--improvement)
+**Quality Over Commits** is a GitHub community for sharing real stories, practical advice, and best practices about what truly stands out in developer portfolios and projects.  
+Join us to discover why thoughtful commits, impactful collaboration, and great documentation matter.
 
 ---
 
-## 🗂️ Discussion Categories
+## 📝 Quick Links
 
-- **General:** Anything related to software careers, GitHub, or open source.
-- **Portfolio Feedback:** Share your profile or project for constructive feedback.
-- **Hiring Signals:** Ask questions about what recruiters look for.
-- **Commit Quality:** Discuss habits, best practices, and impactful commits.
-- **Resources & Advice:** Share guides, articles, and helpful tools.
-- **Polls & Challenges:** Participate in community polls and coding challenges.
-
----
-
-## 🌟 Featured Threads
-
-- [Introduce Yourself!](https://github.com/TheSolutionDeskAndCompany/quality-over-commits/discussions/1)
+- [Introduce Yourself](https://github.com/TheSolutionDeskAndCompany/quality-over-commits/discussions/13)
 - [Profile Review Requests](https://github.com/TheSolutionDeskAndCompany/quality-over-commits/discussions/2)
 - [Commit Habits & Strategies](https://github.com/TheSolutionDeskAndCompany/quality-over-commits/discussions/3)
 - [Recruiter Insights](https://github.com/TheSolutionDeskAndCompany/quality-over-commits/discussions/4)
-- [Poll: What Makes a Standout Portfolio?](https://github.com/TheSolutionDeskAndCompany/quality-over-commits/discussions/5)
 - [Resource Sharing](https://github.com/TheSolutionDeskAndCompany/quality-over-commits/discussions/6)
+- [Feedback/Suggestions](https://github.com/TheSolutionDeskAndCompany/quality-over-commits/discussions/new)
 
 ---
 
-## ✅ How to Participate
+## Maintainer
 
-1. **Browse** discussions and find topics that interest you.
-2. **Join in** by replying or starting a new discussion in the relevant category.
-3. **Share your experiences**, ask for feedback, and help others grow.
-4. **Respect the community guidelines**—quality conversation is our goal!
+[TheSolutionDeskAndCompany](https://github.com/TheSolutionDeskAndCompany)
 
 ---
 
-## 🤝 Community Guidelines
-
-- Be respectful and constructive.
-- Stay on topic and use the correct category.
-- No spam or self-promotion outside relevant threads.
-- Review our [Code of Conduct](CODE_OF_CONDUCT.md) for full details.
-
----
-
-## 🌱 Success Stories
-
-Have you improved your profile, project, or commit habits thanks to this community?  
-Share your story in [Success Stories & Testimonials](https://github.com/TheSolutionDeskAndCompany/quality-over-commits/discussions/new) and inspire others!
-
----
-
-## 💡 Why Quality Matters
-
-Not all commits are equal.  
-A well-written commit, a thoughtful PR review, or a documented issue can show your skills and professionalism far more than a long commit log.  
-Discuss and discover what signals matter most for hiring, collaboration, and personal growth.
-
----
-
-## 💡 Suggestions & Improvement
-
-Have ideas to make this board better?  
-Visit [Suggestions & Feedback](https://github.com/TheSolutionDeskAndCompany/quality-over-commits/discussions/new) and share your thoughts!
-
----
-
-**Quality matters more than quantity. Join us to learn, share, and grow together!**
+**Quality matters more than quantity.**  
+_Join us to learn, share, and grow together!_
