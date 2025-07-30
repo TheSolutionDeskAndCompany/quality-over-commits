@@ -1,0 +1,10 @@
+# .github/config.yml
+
+newIssueWelcomeComment: >
+  👋 Thanks for opening your first issue! Please check our [pinned threads](https://github.com/TheSolutionDeskAndCompany/quality-over-commits/discussions) and introduce yourself.
+
+newPRWelcomeComment: >
+  🎉 Thanks for your first pull request! Please read our [Contributing Guide](CONTRIBUTING.md) and join our [Discussions](https://github.com/TheSolutionDeskAndCompany/quality-over-commits/discussions/13).
+
+firstPRMergeComment: >
+  🚀 Congrats on your first merged PR! Welcome to the project and thanks for contributing!
